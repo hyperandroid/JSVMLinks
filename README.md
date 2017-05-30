@@ -10,3 +10,4 @@
 + [V8 Parsing JavaScript - better lazy than eager?](https://docs.google.com/presentation/d/1b-ALt6W01nIxutFVFmXMOyd_6ou_6qqP6S0Prmb1iDs/edit#slide=id.g21f36da3fe_0_78)
 + [WebAssembly explorer](http://mbebenita.github.io/WasmExplorer/)
 + [V8 resources - Vyacheslav Egorov](http://mrale.ph/v8/resources.html)
++ [WebAssembly roadmap](https://wasmdash.appspot.com/)
