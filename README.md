@@ -11,3 +11,4 @@
 + [WebAssembly explorer](http://mbebenita.github.io/WasmExplorer/)
 + [V8 resources - Vyacheslav Egorov](http://mrale.ph/v8/resources.html)
 + [WebAssembly roadmap](https://wasmdash.appspot.com/)
++ [High Performance JS in V8](https://docs.google.com/presentation/d/1KCcA-WAyhGs0SEOrfU21fjaTWTxvNxYLwmNlGIbuZFw/edit#slide=id.p)
