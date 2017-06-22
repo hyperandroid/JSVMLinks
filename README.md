@@ -1,7 +1,7 @@
 # Interesting Js VM links (in no special order)
 
-+ [A tale of Javascript performance. Benedikt Meurer, 2017](https://docs.google.com/presentation/d/1aWMIIiHqGh4rUiiSb2pdLrFFFw6KnACcAYjjZTivfgU/edit#slide=id.p)
-+ [High Performance JS in V8. 6/2017](https://docs.google.com/presentation/d/1KCcA-WAyhGs0SEOrfU21fjaTWTxvNxYLwmNlGIbuZFw/edit#slide=id.p)
++ [A tale of Javascript performance. Benedikt Meurer at enterJS. 2017](https://docs.google.com/presentation/d/1aWMIIiHqGh4rUiiSb2pdLrFFFw6KnACcAYjjZTivfgU/edit#slide=id.p)
++ [High Performance JS in V8. Peter Marshall. 6/2017](https://docs.google.com/presentation/d/1KCcA-WAyhGs0SEOrfU21fjaTWTxvNxYLwmNlGIbuZFw/edit#slide=id.p)
 + [V8 Parsing JavaScript - better lazy than eager?. 2017](https://docs.google.com/presentation/d/1b-ALt6W01nIxutFVFmXMOyd_6ou_6qqP6S0Prmb1iDs/edit#slide=id.g21f36da3fe_0_78)
 + [v8 behind the scenes march ed. Series. (I+Tf, Declarative Js, 2017)](http://benediktmeurer.de/2017/04/03/v8-behind-the-scenes-march-edition/)
 
